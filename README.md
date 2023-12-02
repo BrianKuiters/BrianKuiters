@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BrianKuiters
+- 👀 I’m interested in programming/Pyton!
+- 🌱 I’m currently learning Python with the CS50 introduction to Python class
